@@ -35,7 +35,7 @@ I'm a **front-end developer**, proficient in **JavaScript**, **CSS3**. Currently
   <a href="https://www.linkedin.com/in/kyleroberts">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://krob79.github.io">
-    <img src="https://img.shields.io/badge/-Portfolio-1DA1F2?logo=webpack&logoColor=white&style=for-the-badge">
+  <a href="https://www.kyleroberts.com">
+    <img src="https://img.shields.io/badge/-Portfolio-1DA1F2?logoColor=white&style=for-the-badge">
   </a>
 </p>
