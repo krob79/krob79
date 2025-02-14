@@ -1,6 +1,6 @@
 # Hi. I'm Kyle. 😁 🤜🏼🤛🏼
 <div align="center">
-    <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=appveyor" />
+    <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Designer-orange?style=for-the-badge&logo=adobe" />
 </div>
 
