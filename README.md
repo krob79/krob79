@@ -6,7 +6,7 @@
 
 ---
 
-I'm a **front-end development**, proficient in **JavaScript**, **CSS3**. Currently diving deeper into **full stack development**, and learning React, Express, Node, and more. I'm amazed at what's available and love the journey through learning. Passionate about building digital, interactive experiences, and tools that can solve problems.
+I'm a **front-end developer**, proficient in **JavaScript**, **CSS3**. Currently diving deeper into **full stack development**, and learning React, Express, Node, and more. I'm amazed at what's available and love the journey through learning. Passionate about building digital, interactive experiences, and tools that can solve problems.
 
 ## Tech Stack
 
